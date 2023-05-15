@@ -1,0 +1,679 @@
+Игроки
+Команда,Игрок,Позиция,Рост
+Manchester United,David de Gea,Goalkeeper,192cm
+Manchester United,Tom Heaton,Goalkeeper,188cm
+Manchester United,Tom Heaton,Goalkeeper,188cm
+Manchester United,Nathan Bishop,Goalkeeper,185cm
+Manchester United,Jack Butland,Goalkeeper,196cm
+Manchester United,Victor Lindelöf,Defender,187cm
+Manchester United,Phil Jones,Defender,180cm
+Manchester United,Harry Maguire,Defender,194cm
+Manchester United,Raphaël Varane,Defender,191cm
+Manchester United,Diogo Dalot,Defender,183cm
+Manchester United,Luke Shaw,Defender,185cm
+Manchester United,Aaron Wan-Bissaka,Defender,183cm
+Manchester United,Tyrell Malacia,Defender,170cm
+Manchester United,Lisandro Martínez,Defender,175cm
+Manchester United,Marc Jurado,Defender,178cm
+Manchester United,Marc Jurado,Defender,178cm
+Manchester United,Brandon Williams,Defender,171cm
+Manchester United,Fred,Midfielder,169cm
+Manchester United,Bruno Fernandes,Midfielder,179cm
+Manchester United,Scott McTominay,Midfielder,193cm
+Manchester United,Facundo Pellistri,Midfielder,175cm
+Manchester United,Donny van de Beek,Midfielder,184cm
+Manchester United,Christian Eriksen,Midfielder,182cm
+Manchester United,Casemiro,Midfielder,185cm
+Manchester United,Zidane Iqbal,Midfielder,181cm
+Manchester United,Kobbie Mainoo,Midfielder,175cm
+Manchester United,Marcel Sabitzer,Midfielder,178cm
+Manchester United,Alejandro Garnacho,Forward,180cm
+Manchester United,Marcus Rashford,Forward,180cm
+Manchester United,Jadon Sancho,Forward,180cm
+Manchester United,Anthony Elanga,Forward,178cm
+Manchester United,Anthony Martial,Forward,181cm
+Manchester United,Antony,Forward,174cm
+Manchester United,Wout Weghorst,Forward,197cm
+Leeds United,Illan Meslier,Goalkeeper,197cm
+Leeds United,Kristoffer Klaesson,Goalkeeper,189cm
+Leeds United,Kristoffer Klaesson,Goalkeeper,189cm
+Leeds United,Joel Robles,Goalkeeper,195cm
+Leeds United,Joel Robles,Goalkeeper,195cm
+Leeds United,Luke Ayling,Defender,185cm
+Leeds United,Junior Firpo,Defender,184cm
+Leeds United,Robin Koch,Defender,192cm
+Leeds United,Liam Cooper,Defender,180cm
+Leeds United,Pascal Struijk,Defender,190cm
+Leeds United,Stuart Dallas,Defender,183cm
+Leeds United,Rasmus Kristensen,Defender,187cm
+Leeds United,Rasmus Kristensen,Defender,187cm
+Leeds United,Maximilian Wöber,Defender,188cm
+Leeds United,Maximilian Wöber,Defender,188cm
+Leeds United,Diogo Monteiro,Defender,184cm
+Leeds United,Diogo Monteiro,Defender,184cm
+Leeds United,Adam Forshaw,Midfielder,174cm
+Leeds United,Jack Harrison,Midfielder,175cm
+Leeds United,Crysencio Summerville,Midfielder,174cm
+Leeds United,Brenden Aaronson,Midfielder,178cm
+Leeds United,Marc Roca,Midfielder,184cm
+Leeds United,Darko Gyabi,Midfielder,196cm
+Leeds United,Tyler Adams,Midfielder,173cm
+Leeds United,Tyler Adams,Midfielder,173cm
+Leeds United,Amari Miller,Midfielder,174cm
+Leeds United,Amari Miller,Midfielder,174cm
+Leeds United,Amari Miller,Midfielder,174cm
+Leeds United,Amari Miller,Midfielder,174cm
+Leeds United,Weston McKennie,Midfielder,183cm
+Leeds United,Patrick Bamford,Forward,185cm
+Leeds United,Rodrigo,Forward,182cm
+Leeds United,Sam Greenwood,Forward,185cm
+Leeds United,Luis Sinisterra,Forward,172cm
+Leeds United,Sonny Perkins,Forward,178cm
+Leeds United,Wilfried Gnonto,Forward,172cm
+Leeds United,Wilfried Gnonto,Forward,172cm
+Leeds United,Georginio Rutter,Forward,182cm
+Arsenal,Aaron Ramsdale,Goalkeeper,188cm
+Arsenal,Matt Turner,Goalkeeper,191cm
+Arsenal,Karl Hein,Goalkeeper,193cm
+Arsenal,Karl Hein,Goalkeeper,193cm
+Arsenal,Kieran Tierney,Defender,178cm
+Arsenal,Ben White,Defender,186cm
+Arsenal,Gabriel Magalhães,Defender,190cm
+Arsenal,Rob Holding,Defender,189cm
+Arsenal,Takehiro Tomiyasu,Defender,187cm
+Arsenal,William Saliba,Defender,192cm
+Arsenal,Lino Sousa,Defender,185cm
+Arsenal,Reuell Walters,Defender,183cm
+Arsenal,Jakub Kiwior,Defender,189cm
+Arsenal,Thomas Partey,Midfielder,185cm
+Arsenal,Bukayo Saka,Midfielder,178cm
+Arsenal,Martin Ødegaard,Midfielder,178cm
+Arsenal,Emile Smith Rowe,Midfielder,182cm
+Arsenal,Mohamed Elneny,Midfielder,179cm
+Arsenal,Granit Xhaka,Midfielder,186cm
+Arsenal,Fábio Vieira,Midfielder,170cm
+Arsenal,Oleksandr Zinchenko,Midfielder,175cm
+Arsenal,Oleksandr Zinchenko,Midfielder,175cm
+Arsenal,Catalin Cirjan,Midfielder,174cm
+Arsenal,Ethan Nwaneri,Midfielder,165cm
+Arsenal,Ethan Nwaneri,Midfielder,165cm
+Arsenal,Matt Smith,Midfielder,176cm
+Arsenal,Jorginho,Midfielder,180cm
+Arsenal,Mauro Bandeira,Midfielder,178cm
+Arsenal,Eddie Nketiah,Forward,175cm
+Arsenal,Gabriel Martinelli,Forward,178cm
+Arsenal,Gabriel Jesus,Forward,175cm
+Arsenal,Reiss Nelson,Forward,175cm
+Arsenal,Khayon Edwards,Forward,180cm
+Arsenal,Khayon Edwards,Forward,180cm
+Arsenal,Leandro Trossard,Forward,172cm
+Arsenal,Leandro Trossard,Forward,172cm
+Newcastle United,Martin Dúbravka,Goalkeeper,190cm
+Newcastle United,Mark Gillespie,Goalkeeper,192cm
+Newcastle United,Nick Pope,Goalkeeper,191cm
+Newcastle United,Loris Karius,Goalkeeper,189cm
+Newcastle United,Paul Dummett,Defender,183cm
+Newcastle United,Fabian Schär,Defender,186cm
+Newcastle United,Jamaal Lascelles,Defender,188cm
+Newcastle United,Jamal Lewis,Defender,178cm
+Newcastle United,Kieran Trippier,Defender,178cm
+Newcastle United,Emil Krafth,Defender,184cm
+Newcastle United,Javier Manquillo,Defender,178cm
+Newcastle United,Dan Burn,Defender,198cm
+Newcastle United,Sven Botman,Defender,193cm
+Newcastle United,Matt Targett,Defender,183cm
+Newcastle United,Matt Targett,Defender,183cm
+Newcastle United,Matt Ritchie,Midfielder,172cm
+Newcastle United,Ryan Fraser,Midfielder,163cm
+Newcastle United,Jacob Murphy,Midfielder,179cm
+Newcastle United,Miguel Almirón,Midfielder,174cm
+Newcastle United,Joe Willock,Midfielder,179cm
+Newcastle United,Sean Longstaff,Midfielder,180cm
+Newcastle United,Bruno Guimarães,Midfielder,182cm
+Newcastle United,Elliot Anderson,Midfielder,179cm
+Newcastle United,Elliot Anderson,Midfielder,179cm
+Newcastle United,Elliot Anderson,Midfielder,179cm
+Newcastle United,Joelinton,Forward,186cm
+Newcastle United,Callum Wilson,Forward,180cm
+Newcastle United,Allan Saint-Maximin,Forward,173cm
+Newcastle United,Alexander Isak,Forward,192cm
+Newcastle United,Anthony Gordon,Forward,183cm
+Tottenham Hotspur,Hugo Lloris,Goalkeeper,188cm
+Tottenham Hotspur,Brandon Austin,Goalkeeper,188cm
+Tottenham Hotspur,Fraser Forster,Goalkeeper,201cm
+Tottenham Hotspur,Alfie Whiteman,Goalkeeper,189cm
+Tottenham Hotspur,Cristian Romero,Defender,185cm
+Tottenham Hotspur,Davinson Sánchez,Defender,187cm
+Tottenham Hotspur,Emerson Royal,Defender,181cm
+Tottenham Hotspur,Eric Dier,Defender,188cm
+Tottenham Hotspur,Japhet Tanganga,Defender,184cm
+Tottenham Hotspur,Ben Davies,Defender,181cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Clément Lenglet,Defender,186cm
+Tottenham Hotspur,Pedro Porro,Defender,173cm
+Tottenham Hotspur,Pierre-Emile Højbjerg,Midfielder,187cm
+Tottenham Hotspur,Ryan Sessegnon,Midfielder,178cm
+Tottenham Hotspur,Dejan Kulusevski,Midfielder,186cm
+Tottenham Hotspur,Oliver Skipp,Midfielder,175cm
+Tottenham Hotspur,Rodrigo Bentancur,Midfielder,187cm
+Tottenham Hotspur,Rodrigo Bentancur,Midfielder,187cm
+Tottenham Hotspur,Ivan Perisic,Midfielder,186cm
+Tottenham Hotspur,Yves Bissouma,Midfielder,182cm
+Tottenham Hotspur,Pape Sarr,Midfielder,185cm
+Tottenham Hotspur,Pape Sarr,Midfielder,185cm
+Tottenham Hotspur,Alfie Devine,Midfielder,179cm
+Tottenham Hotspur,Alfie Devine,Midfielder,179cm
+Tottenham Hotspur,Alfie Devine,Midfielder,179cm
+Tottenham Hotspur,Arnaut Danjuma,Midfielder,178cm
+Tottenham Hotspur,Arnaut Danjuma,Midfielder,178cm
+Tottenham Hotspur,Son Heung-Min,Forward,184cm
+Tottenham Hotspur,Harry Kane,Forward,188cm
+Tottenham Hotspur,Lucas Moura,Forward,172cm
+Tottenham Hotspur,Richarlison,Forward,184cm
+Tottenham Hotspur,Richarlison,Forward,184cm
+Tottenham Hotspur,Richarlison,Forward,184cm
+Tottenham Hotspur,Richarlison,Forward,184cm
+Aston Villa,Emiliano Martínez,Goalkeeper,195cm
+Aston Villa,Viljami Sinisalo,Goalkeeper,190cm
+Aston Villa,Robin Olsen,Goalkeeper,198cm
+Aston Villa,Oliwier Zych,Goalkeeper,193cm
+Aston Villa,Oliwier Zych,Goalkeeper,193cm
+Aston Villa,Matty Cash,Defender,185cm
+Aston Villa,Ezri Konsa,Defender,183cm
+Aston Villa,Tyrone Mings,Defender,196cm
+Aston Villa,Calum Chambers,Defender,182cm
+Aston Villa,Ashley Young,Defender,175cm
+Aston Villa,Lucas Digne,Defender,178cm
+Aston Villa,Diego Carlos,Defender,186cm
+Aston Villa,Álex Moreno,Defender,179cm
+Aston Villa,Sebastian Revan,Defender,181cm
+Aston Villa,Sil Swinkels,Defender,190cm
+Aston Villa,Douglas Luiz,Midfielder,175cm
+Aston Villa,John McGinn,Midfielder,178cm
+Aston Villa,Emiliano Buendía,Midfielder,172cm
+Aston Villa,Jacob Ramsey,Midfielder,180cm
+Aston Villa,Jacob Ramsey,Midfielder,180cm
+Aston Villa,Boubacar Kamara,Midfielder,184cm
+Aston Villa,Philippe Coutinho,Midfielder,172cm
+Aston Villa,Leander Dendoncker,Midfielder,188cm
+Aston Villa,Kadan Young,Midfielder,176cm
+Aston Villa,Kadan Young,Midfielder,176cm
+Aston Villa,Ollie Watkins,Forward,180cm
+Aston Villa,Bertrand Traoré,Forward,181cm
+Aston Villa,Leon Bailey,Forward,178cm
+Aston Villa,Jhon Durán,Forward,185cm
+Chelsea,Kepa Arrizabalaga,Goalkeeper,189cm
+Chelsea,Édouard Mendy,Goalkeeper,194cm
+Chelsea,Gabriel Slonina,Goalkeeper,193cm
+Chelsea,Marcus Bettinelli,Goalkeeper,194cm
+Chelsea,Lucas Bergström,Goalkeeper,199cm
+Chelsea,Thiago Silva,Defender,183cm
+Chelsea,Reece James,Defender,182cm
+Chelsea,César Azpilicueta,Defender,178cm
+Chelsea,Kalidou Koulibaly,Defender,195cm
+Chelsea,Marc Cucurella,Defender,172cm
+Chelsea,Ben Chilwell,Defender,178cm
+Chelsea,Wesley Fofana,Defender,190cm
+Chelsea,Trevoh Chalobah,Defender,190cm
+Chelsea,Ben Chilwell,Defender,178cm
+Chelsea,Benoît Badiashile,Defender,194cm
+Chelsea,N'Golo Kanté,Midfielder,168cm
+Chelsea,Mateo Kovacic,Midfielder,177cm
+Chelsea,Christian Pulisic,Midfielder,179cm
+Chelsea,Ruben Loftus-Cheek,Midfielder,191cm
+Chelsea,Mason Mount,Midfielder,181cm
+Chelsea,Hakim Ziyech,Midfielder,180cm
+Chelsea,Kai Havertz,Midfielder,193cm
+Chelsea,Conor Gallagher,Midfielder,182cm
+Chelsea,Harvey Vale,Midfielder,181cm
+Chelsea,Carney Chukwuemeka,Midfielder,187cm
+Chelsea,Denis Zakaria,Midfielder,189cm
+Chelsea,Omari Hutchinson,Midfielder,174cm
+Chelsea,Lewis Hall,Midfielder,179cm
+Chelsea,Mykhailo Mudryk,Midfielder,175cm
+Chelsea,Enzo Fernández,Midfielder,178cm
+Chelsea,Armando Broja,Forward,191cm
+Chelsea,Raheem Sterling,Forward,172cm
+Chelsea,Pierre-Emerick Aubameyang,Forward,187cm
+Chelsea,David Datro Fofana,Forward,181cm
+Chelsea,João Félix,Forward,181cm
+Chelsea,Noni Madueke,Forward,176cm
+Chelsea,Noni Madueke,Forward,176cm
+Everton,Jordan Pickford,Goalkeeper,185cm
+Everton,Asmir Begovic,Goalkeeper,199cm
+Everton,Andy Lonergan,Goalkeeper,192cm
+Everton,Billy Crellin,Goalkeeper,185cm
+Everton,Nathan Patterson,Defender,189cm
+Everton,Mason Holgate,Defender,184cm
+Everton,Michael Keane,Defender,191cm
+Everton,Yerry Mina,Defender,195cm
+Everton,Vitalii Mykolenko,Defender,180cm
+Everton,Ben Godfrey,Defender,183cm
+Everton,Séamus Coleman,Defender,177cm
+Everton,James Tarkowski,Defender,185cm
+Everton,Rúben Vinagre,Defender,174cm
+Everton,Conor Coady,Defender,185cm
+Everton,Conor Coady,Defender,185cm
+Everton,Conor Coady,Defender,185cm
+Everton,Conor Coady,Defender,185cm
+Everton,Andros Townsend,Midfielder,181cm
+Everton,Abdoulaye Doucouré,Midfielder,184cm
+Everton,Tom Davies,Midfielder,180cm
+Everton,Tom Davies,Midfielder,180cm
+Everton,Amadou Onana,Midfielder,192cm
+Everton,Amadou Onana,Midfielder,192cm
+Everton,Idrissa Gueye,Midfielder,174cm
+Everton,James Garner,Midfielder,186cm
+Everton,Dominic Calvert-Lewin,Forward,187cm
+Everton,Demarai Gray,Forward,180cm
+Everton,Alex Iwobi,Forward,180cm
+Everton,Ellis Simms,Forward,191cm
+Everton,Dwight McNeil,Forward,183cm
+Everton,Neal Maupay,Forward,173cm
+Leicester City,Danny Ward,Goalkeeper,191cm
+Leicester City,Daniel Iversen,Goalkeeper,193cm
+Leicester City,Alex Smithies,Goalkeeper,185cm
+Leicester City,James Justin,Defender,183cm
+Leicester City,James Justin,Defender,183cm
+Leicester City,Ryan Bertrand,Defender,179cm
+Leicester City,Jonny Evans,Defender,188cm
+Leicester City,Daniel Amartey,Defender,186cm
+Leicester City,Ricardo Pereira,Defender,175cm
+Leicester City,Jannik Vestergaard,Defender,199cm
+Leicester City,Timothy Castagne,Defender,185cm
+Leicester City,Timothy Castagne,Defender,185cm
+Leicester City,Wout Faes,Defender,187cm
+Leicester City,Wout Faes,Defender,187cm
+Leicester City,Victor Kristiansen,Defender,181cm
+Leicester City,Harry Souttar,Defender,198cm
+Leicester City,Harvey Barnes,Midfielder,174cm
+Leicester City,Youri Tielemans,Midfielder,176cm
+Leicester City,James Maddison,Midfielder,175cm
+Leicester City,Kiernan Dewsbury-Hall,Midfielder,178cm
+Leicester City,Wilfred Ndidi,Midfielder,183cm
+Leicester City,Boubakary Soumaré,Midfielder,188cm
+Leicester City,Wanya Marçal-Madivadua,Midfielder,181cm
+Leicester City,Dennis Praet,Midfielder,181cm
+Leicester City,Dennis Praet,Midfielder,181cm
+Leicester City,Nampalys Mendy,Midfielder,167cm
+Leicester City,Nampalys Mendy,Midfielder,167cm
+Leicester City,Nampalys Mendy,Midfielder,167cm
+Leicester City,Jamie Vardy,Forward,179cm
+Leicester City,Kelechi Iheanacho,Forward,185cm
+Leicester City,Patson Daka,Forward,183cm
+Leicester City,Tetê,Forward,175cm
+Liverpool,Alisson,Goalkeeper,193cm
+Liverpool,Adrián,Goalkeeper,190cm
+Liverpool,Caoimhín Kelleher,Goalkeeper,178cm
+Liverpool,Caoimhín Kelleher,Goalkeeper,178cm
+Liverpool,Virgil van Dijk,Defender,195cm
+Liverpool,Ibrahima Konaté,Defender,194cm
+Liverpool,Joe Gomez,Defender,188cm
+Liverpool,Konstantinos Tsimikas,Defender,178cm
+Liverpool,Andrew Robertson,Defender,178cm
+Liverpool,Joël Matip,Defender,195cm
+Liverpool,Trent Alexander-Arnold,Defender,175cm
+Liverpool,Calvin Ramsay,Defender,177cm
+Liverpool,Nathaniel Phillips,Defender,190cm
+Liverpool,Stefan Bajcetic,Defender,185cm
+Liverpool,Rhys Williams,Defender,195cm
+Liverpool,Fabinho,Midfielder,188cm
+Liverpool,Thiago Alcântara,Midfielder,174cm
+Liverpool,James Milner,Midfielder,175cm
+Liverpool,Naby Keïta,Midfielder,172cm
+Liverpool,Jordan Henderson,Midfielder,182cm
+Liverpool,Alex Oxlade-Chamberlain,Midfielder,180cm
+Liverpool,Curtis Jones,Midfielder,185cm
+Liverpool,Harvey Elliott,Midfielder,170cm
+Liverpool,Fábio Carvalho,Midfielder,170cm
+Liverpool,Bobby Clark,Midfielder,178cm
+Liverpool,Arthur,Midfielder,171cm
+Liverpool,Arthur,Midfielder,171cm
+Liverpool,Roberto Firmino,Forward,181cm
+Liverpool,Mohamed Salah,Forward,175cm
+Liverpool,Diogo Jota,Forward,178cm
+Liverpool,Luis Díaz,Forward,178cm
+Liverpool,Darwin Núñez,Forward,187cm
+Liverpool,Darwin Núñez,Forward,187cm
+Liverpool,Darwin Núñez,Forward,187cm
+Liverpool,Cody Gakpo,Forward,193cm
+Nottingham Forest,Dean Henderson,Goalkeeper,188cm
+Nottingham Forest,Wayne Hennessey,Goalkeeper,198cm
+Nottingham Forest,Wayne Hennessey,Goalkeeper,198cm
+Nottingham Forest,Keylor Navas,Goalkeeper,185cm
+Nottingham Forest,George Shelvey,Goalkeeper,188cm
+Nottingham Forest,Joe Worrall,Defender,193cm
+Nottingham Forest,Scott McKenna,Defender,189cm
+Nottingham Forest,Steve Cook,Defender,185cm
+Nottingham Forest,Giulian Biancone,Defender,187cm
+Nottingham Forest,Moussa Niakhaté,Defender,190cm
+Nottingham Forest,Omar Richards,Defender,174cm
+Nottingham Forest,Neco Williams,Defender,183cm
+Nottingham Forest,Harry Toffolo,Defender,183cm
+Nottingham Forest,Harry Toffolo,Defender,183cm
+Nottingham Forest,Renan Lodi,Defender,173cm
+Nottingham Forest,Willy Boly,Defender,195cm
+Nottingham Forest,Sèrge Aurier,Defender,176cm
+Nottingham Forest,Felipe,Defender,190cm
+Nottingham Forest,Jack Colback,Midfielder,177cm
+Nottingham Forest,Cafú,Midfielder,185cm
+Nottingham Forest,Ryan Yates,Midfielder,190cm
+Nottingham Forest,Harry Arter,Midfielder,176cm
+Nottingham Forest,Jesse Lingard,Midfielder,175cm
+Nottingham Forest,Jesse Lingard,Midfielder,175cm
+Nottingham Forest,Cheikhou Kouyaté,Midfielder,189cm
+Nottingham Forest,Remo Freuler,Midfielder,181cm
+Nottingham Forest,Morgan Gibbs-White,Midfielder,171cm
+Nottingham Forest,Morgan Gibbs-White,Midfielder,171cm
+Nottingham Forest,Orel Mangala,Midfielder,178cm
+Nottingham Forest,Gustavo Scarpa,Midfielder,176cm
+Nottingham Forest,Danilo,Midfielder,176cm
+Nottingham Forest,Jonjo Shelvey,Midfielder,184cm
+Nottingham Forest,Sam Surridge,Forward,191cm
+Nottingham Forest,Sam Surridge,Forward,191cm
+Nottingham Forest,Brennan Johnson,Forward,179cm
+Nottingham Forest,Taiwo Awoniyi,Forward,183cm
+Nottingham Forest,Lyle Taylor,Forward,188cm
+Nottingham Forest,Emmanuel Dennis,Forward,175cm
+Nottingham Forest,Emmanuel Dennis,Forward,175cm
+Nottingham Forest,Emmanuel Dennis,Forward,175cm
+Nottingham Forest,Chris Wood,Forward,191cm
+Nottingham Forest,André Ayew,Forward,175cm
+Southampton,Alex McCarthy,Goalkeeper,193cm
+Southampton,Willy Caballero,Goalkeeper,186cm
+Southampton,Gavin Bazunu,Goalkeeper,189cm
+Southampton,Kyle Walker-Peters,Defender,173cm
+Southampton,Lyanco,Defender,187cm
+Southampton,Romain Perraud,Defender,173cm
+Southampton,Tino Livramento,Defender,182cm
+Southampton,Mohammed Salisu,Defender,191cm
+Southampton,Jan Bednarek,Defender,189cm
+Southampton,Armel Bella-Kotchap,Defender,190cm
+Southampton,Duje Caleta-Car,Defender,192cm
+Southampton,Duje Caleta-Car,Defender,192cm
+Southampton,James Bree,Defender,172cm
+Southampton,James Ward-Prowse,Midfielder,173cm
+Southampton,Stuart Armstrong,Midfielder,183cm
+Southampton,Moussa Djenepo,Midfielder,177cm
+Southampton,Mohamed Elyounoussi,Midfielder,178cm
+Southampton,Ibrahima Diallo,Midfielder,179cm
+Southampton,Roméo Lavia,Midfielder,181cm
+Southampton,Joe Aribo,Midfielder,183cm
+Southampton,Joe Aribo,Midfielder,183cm
+Southampton,Ainsley Maitland-Niles,Midfielder,177cm
+Southampton,Carlos Alcaraz,Midfielder,176cm
+Southampton,Kamaldeen Sulemana,Midfielder,175cm
+Southampton,Kamaldeen Sulemana,Midfielder,175cm
+Southampton,Adam Armstrong,Forward,174cm
+Southampton,Ché Adams,Forward,175cm
+Southampton,Theo Walcott,Forward,176cm
+Southampton,Sékou Mara,Forward,184cm
+Southampton,Sékou Mara,Forward,184cm
+Southampton,Sékou Mara,Forward,184cm
+Southampton,Sékou Mara,Forward,184cm
+Southampton,Mislav Orsic,Forward,179cm
+Southampton,Paul Onuachu,Forward,201cm
+West Ham United,Lukasz Fabianski,Goalkeeper,190cm
+West Ham United,Alphonse Aréola,Goalkeeper,195cm
+West Ham United,Krisztián Hegyi,Goalkeeper,193cm
+West Ham United,Joseph Anang,Goalkeeper,190cm
+West Ham United,Aaron Cresswell,Defender,170cm
+West Ham United,Kurt Zouma,Defender,190cm
+West Ham United,Kurt Zouma,Defender,190cm
+West Ham United,Angelo Ogbonna,Defender,191cm
+West Ham United,Ben Johnson,Defender,175cm
+West Ham United,Nayef Aguerd,Defender,190cm
+West Ham United,Thilo Kehrer,Defender,186cm
+West Ham United,Thilo Kehrer,Defender,186cm
+West Ham United,Emerson,Defender,176cm
+West Ham United,Emerson,Defender,176cm
+West Ham United,Emerson,Defender,176cm
+West Ham United,Emerson,Defender,176cm
+West Ham United,Emerson,Defender,176cm
+West Ham United,Luizão,Defender,187cm
+West Ham United,Luizão,Defender,187cm
+West Ham United,Pablo Fornals,Midfielder,178cm
+West Ham United,Manuel Lanzini,Midfielder,167cm
+West Ham United,Manuel Lanzini,Midfielder,167cm
+West Ham United,Declan Rice,Midfielder,185cm
+West Ham United,Flynn Downes,Midfielder,173cm
+West Ham United,Flynn Downes,Midfielder,173cm
+West Ham United,Lucas Paquetá,Midfielder,180cm
+West Ham United,Lucas Paquetá,Midfielder,180cm
+West Ham United,Lucas Paquetá,Midfielder,180cm
+West Ham United,Lucas Paquetá,Midfielder,180cm
+West Ham United,Michail Antonio,Forward,180cm
+West Ham United,Jarrod Bowen,Forward,175cm
+West Ham United,Saïd Benrahma,Forward,172cm
+West Ham United,Gianluca Scamacca,Forward,196cm
+West Ham United,Maxwel Cornet,Forward,179cm
+West Ham United,Maxwel Cornet,Forward,179cm
+West Ham United,Danny Ings,Forward,178cm
+West Ham United,Danny Ings,Forward,178cm
+Crystal Palace,Vicente Guaita,Goalkeeper,190cm
+Crystal Palace,Sam Johnstone,Goalkeeper,193cm
+Crystal Palace,Sam Johnstone,Goalkeeper,193cm
+Crystal Palace,Sam Johnstone,Goalkeeper,193cm
+Crystal Palace,Joel Ward,Defender,188cm
+Crystal Palace,Tyrick Mitchell,Defender,175cm
+Crystal Palace,James Tomkins,Defender,192cm
+Crystal Palace,Marc Guéhi,Defender,182cm
+Crystal Palace,Joachim Andersen,Defender,192cm
+Crystal Palace,Nathaniel Clyne,Defender,175cm
+Crystal Palace,Nathan Ferguson,Defender,178cm
+Crystal Palace,Chris Richards,Defender,188cm
+Crystal Palace,Luka Milivojevic,Midfielder,186cm
+Crystal Palace,Michael Olise,Midfielder,184cm
+Crystal Palace,Will Hughes,Midfielder,185cm
+Crystal Palace,Jeffrey Schlupp,Midfielder,178cm
+Crystal Palace,James McArthur,Midfielder,178cm
+Crystal Palace,Jairo Riedewald,Midfielder,182cm
+Crystal Palace,Cheick Doucouré,Midfielder,180cm
+Crystal Palace,Eberechi Eze,Midfielder,178cm
+Crystal Palace,Eberechi Eze,Midfielder,178cm
+Crystal Palace,Eberechi Eze,Midfielder,178cm
+Crystal Palace,Kofi Balmer,Midfielder,183cm
+Crystal Palace,Kofi Balmer,Midfielder,183cm
+Crystal Palace,Naouirou Ahamada,Midfielder,183cm
+Crystal Palace,Albert Sambi Lokonga,Midfielder,173cm
+Crystal Palace,Jordan Ayew,Forward,182cm
+Crystal Palace,Wilfried Zaha,Forward,180cm
+Crystal Palace,Jean-Philippe Mateta,Forward,192cm
+Crystal Palace,Odsonne Édouard,Forward,187cm
+Crystal Palace,Odsonne Édouard,Forward,187cm
+Brighton and Hove Albion,Robert Sánchez,Goalkeeper,197cm
+Brighton and Hove Albion,Jason Steele,Goalkeeper,188cm
+Brighton and Hove Albion,Tom McGill,Goalkeeper,185cm
+Brighton and Hove Albion,Tariq Lamptey,Defender,163cm
+Brighton and Hove Albion,Adam Webster,Defender,191cm
+Brighton and Hove Albion,Lewis Dunk,Defender,192cm
+Brighton and Hove Albion,Joël Veltman,Defender,184cm
+Brighton and Hove Albion,Matt Clarke,Defender,185cm
+Brighton and Hove Albion,Jan Paul van Hecke,Defender,189cm
+Brighton and Hove Albion,Levi Colwill,Defender,187cm
+Brighton and Hove Albion,Pervis Estupiñán,Defender,175cm
+Brighton and Hove Albion,Odeluga Offiah,Defender,181cm
+Brighton and Hove Albion,Alexis Mac Allister,Midfielder,176cm
+Brighton and Hove Albion,Pascal Groß,Midfielder,181cm
+Brighton and Hove Albion,Adam Lallana,Midfielder,172cm
+Brighton and Hove Albion,Jakub Moder,Midfielder,188cm
+Brighton and Hove Albion,Solly March,Midfielder,180cm
+Brighton and Hove Albion,Moisés Caicedo,Midfielder,178cm
+Brighton and Hove Albion,Kaoru Mitoma,Midfielder,178cm
+Brighton and Hove Albion,Jack Hinchy,Midfielder,180cm
+Brighton and Hove Albion,Cameron Peupion,Midfielder,175cm
+Brighton and Hove Albion,Andrew Moran,Midfielder,177cm
+Brighton and Hove Albion,Billy Gilmour,Midfielder,166cm
+Brighton and Hove Albion,Billy Gilmour,Midfielder,166cm
+Brighton and Hove Albion,Facundo Buonanotte,Midfielder,176cm
+Brighton and Hove Albion,Yasin Ayari,Midfielder,172cm
+Brighton and Hove Albion,Danny Welbeck,Forward,185cm
+Brighton and Hove Albion,Jeremy Sarmiento,Forward,178cm
+Brighton and Hove Albion,Julio Enciso,Forward,168cm
+Brighton and Hove Albion,Deniz Undav,Forward,179cm
+Brighton and Hove Albion,Evan Ferguson,Forward,183cm
+Wolverhampton Wanderers,José Sá,Goalkeeper,192cm
+Wolverhampton Wanderers,Louie Moulden,Goalkeeper,190cm
+Wolverhampton Wanderers,Daniel Bentley,Goalkeeper,188cm
+Wolverhampton Wanderers,Rayan Aït-Nouri,Defender,179cm
+Wolverhampton Wanderers,Jonny,Defender,175cm
+Wolverhampton Wanderers,Nélson Semedo,Defender,177cm
+Wolverhampton Wanderers,Maximilian Kilman,Defender,194cm
+Wolverhampton Wanderers,Toti,Defender,187cm
+Wolverhampton Wanderers,Nathan Collins,Defender,193cm
+Wolverhampton Wanderers,Hugo Bueno,Defender,180cm
+Wolverhampton Wanderers,Dexter Lembikisa,Defender,180cm
+Wolverhampton Wanderers,Craig Dawson,Defender,188cm
+Wolverhampton Wanderers,Lewis Richards,Defender,182cm
+Wolverhampton Wanderers,Rúben Neves,Midfielder,180cm
+Wolverhampton Wanderers,Daniel Podence,Midfielder,165cm
+Wolverhampton Wanderers,João Moutinho,Midfielder,170cm
+Wolverhampton Wanderers,Joseph Hodge,Midfielder,172cm
+Wolverhampton Wanderers,Matheus Nunes,Midfielder,184cm
+Wolverhampton Wanderers,Boubacar Traoré,Midfielder,183cm
+Wolverhampton Wanderers,Boubacar Traoré,Midfielder,183cm
+Wolverhampton Wanderers,Mario Lemina,Midfielder,184cm
+Wolverhampton Wanderers,Pablo Sarabia,Midfielder,174cm
+Wolverhampton Wanderers,João Gomes,Midfielder,173cm
+Wolverhampton Wanderers,Pedro Neto,Forward,172cm
+Wolverhampton Wanderers,Raúl Jiménez,Forward,190cm
+Wolverhampton Wanderers,Chiquinho,Forward,179cm
+Wolverhampton Wanderers,Adama Traoré,Forward,178cm
+Wolverhampton Wanderers,Hwang Hee-Chan,Forward,177cm
+Wolverhampton Wanderers,Sasa Kalajdzic,Forward,200cm
+Wolverhampton Wanderers,Diego Costa,Forward,188cm
+Wolverhampton Wanderers,Diego Costa,Forward,188cm
+Wolverhampton Wanderers,Matheus Cunha,Forward,184cm
+Manchester City,Ederson,Goalkeeper,188cm
+Manchester City,Scott Carson,Goalkeeper,188cm
+Manchester City,Stefan Ortega,Goalkeeper,185cm
+Manchester City,Kyle Walker,Defender,178cm
+Manchester City,Rúben Dias,Defender,186cm
+Manchester City,John Stones,Defender,188cm
+Manchester City,Nathan Aké,Defender,180cm
+Manchester City,Aymeric Laporte,Defender,189cm
+Manchester City,Rico Lewis,Defender,169cm
+Manchester City,Manuel Akanji,Defender,186cm
+Manchester City,Ilkay Gündogan,Midfielder,180cm
+Manchester City,Jack Grealish,Midfielder,175cm
+Manchester City,Rodri,Midfielder,190cm
+Manchester City,Kevin De Bruyne,Midfielder,181cm
+Manchester City,Bernardo Silva,Midfielder,173cm
+Manchester City,Phil Foden,Midfielder,171cm
+Manchester City,Cole Palmer,Midfielder,182cm
+Manchester City,Kalvin Phillips,Midfielder,178cm
+Manchester City,Yangel Herrera,Midfielder,184cm
+Manchester City,Sergio Gómez,Midfielder,171cm
+Manchester City,Sergio Gómez,Midfielder,171cm
+Manchester City,Alex Robertson,Midfielder,182cm
+Manchester City,Máximo Perrone,Midfielder,177cm
+Manchester City,Riyad Mahrez,Forward,179cm
+Manchester City,Erling Haaland,Forward,194cm
+Manchester City,Julián Álvarez,Forward,170cm
+Fulham,Marek Rodák,Goalkeeper,194cm
+Fulham,Bernd Leno,Goalkeeper,189cm
+Fulham,George Wickens,Goalkeeper,183cm
+Fulham,Kenny Tete,Defender,180cm
+Fulham,Tim Ream,Defender,183cm
+Fulham,Tosin Adarabioyo,Defender,196cm
+Fulham,Antonee Robinson,Defender,183cm
+Fulham,Shane Duffy,Defender,193cm
+Fulham,Issa Diop,Defender,194cm
+Fulham,Issa Diop,Defender,194cm
+Fulham,Issa Diop,Defender,194cm
+Fulham,Layvin Kurzawa,Defender,182cm
+Fulham,Layvin Kurzawa,Defender,182cm
+Fulham,Cédric Soares,Defender,172cm
+Fulham,Harrison Reed,Midfielder,181cm
+Fulham,Neeskens Kebano,Midfielder,170cm
+Fulham,Harry Wilson,Midfielder,173cm
+Fulham,Tom Cairney,Midfielder,186cm
+Fulham,João Palhinha,Midfielder,190cm
+Fulham,Andreas Pereira,Midfielder,178cm
+Fulham,Luke Harris,Midfielder,177cm
+Fulham,Luke Harris,Midfielder,177cm
+Fulham,Dan James,Midfielder,171cm
+Fulham,Sasa Lukic,Midfielder,183cm
+Fulham,Tyrese Francois,Midfielder,166cm
+Fulham,Tyrese Francois,Midfielder,166cm
+Fulham,Aleksandar Mitrovic,Forward,189cm
+Fulham,Bobby De Cordova-Reid,Forward,170cm
+Fulham,Manor Solomon,Forward,170cm
+Fulham,Manor Solomon,Forward,170cm
+Fulham,Manor Solomon,Forward,170cm
+Fulham,Willian,Forward,174cm
+Fulham,Carlos Vinícius,Forward,190cm
+Fulham,Carlos Vinícius,Forward,190cm
+AFC Bournemouth,Mark Travers,Goalkeeper,191cm
+AFC Bournemouth,Neto,Goalkeeper,190cm
+AFC Bournemouth,Neto,Goalkeeper,190cm
+AFC Bournemouth,Darren Randolph,Goalkeeper,188cm
+AFC Bournemouth,Lloyd Kelly,Defender,178cm
+AFC Bournemouth,Chris Mepham,Defender,193cm
+AFC Bournemouth,Adam Smith,Defender,180cm
+AFC Bournemouth,Jack Stacey,Defender,180cm
+AFC Bournemouth,Jordan Zemura,Defender,173cm
+AFC Bournemouth,Ryan Fredericks,Defender,181cm
+AFC Bournemouth,Marcos Senesi,Defender,185cm
+AFC Bournemouth,Ben Greenwood,Defender,170cm
+AFC Bournemouth,Jack Stephens,Defender,185cm
+AFC Bournemouth,Matías Viña,Defender,175cm
+AFC Bournemouth,Illia Zabarnyi,Defender,189cm
+AFC Bournemouth,Illia Zabarnyi,Defender,189cm
+AFC Bournemouth,Lewis Cook,Midfielder,175cm
+AFC Bournemouth,David Brooks,Midfielder,173cm
+AFC Bournemouth,Jefferson Lerma,Midfielder,179cm
+AFC Bournemouth,Ryan Christie,Midfielder,178cm
+AFC Bournemouth,Junior Stanislas,Midfielder,183cm
+AFC Bournemouth,Philip Billing,Midfielder,193cm
+AFC Bournemouth,Joe Rothwell,Midfielder,185cm
+AFC Bournemouth,Marcus Tavernier,Midfielder,178cm
+AFC Bournemouth,Jack Wadham,Midfielder,183cm
+AFC Bournemouth,Ferdinand Okoh,Midfielder,171cm
+AFC Bournemouth,Daniel Adu-Adjei,Midfielder,177cm
+AFC Bournemouth,Hamed Traorè,Midfielder,184cm
+AFC Bournemouth,Dominic Solanke,Forward,187cm
+AFC Bournemouth,Kieffer Moore,Forward,196cm
+AFC Bournemouth,Jaidon Anthony,Forward,183cm
+AFC Bournemouth,Dominic Sadi,Forward,174cm
+AFC Bournemouth,Michael Dacosta Gonzalez,Forward,186cm
+AFC Bournemouth,Dango Ouattara,Forward,177cm
+AFC Bournemouth,Euan Pollock,Forward,173cm
+AFC Bournemouth,Antoine Semenyo,Forward,185cm
+Brentford,David Raya,Goalkeeper,183cm
+Brentford,Matthew Cox,Goalkeeper,182cm
+Brentford,Thomas Strakosha,Goalkeeper,186cm
+Brentford,Rico Henry,Defender,170cm
+Brentford,Ethan Pinnock,Defender,187cm
+Brentford,Pontus Jansson,Defender,194cm
+Brentford,Kristoffer Ajer,Defender,198cm
+Brentford,Zanka,Defender,191cm
+Brentford,Mads Roerslev,Defender,184cm
+Brentford,Aaron Hickey,Defender,178cm
+Brentford,Ben Mee,Defender,180cm
+Brentford,Tristan Crama,Defender,192cm
+Brentford,Finley Stevens,Defender,179cm
+Brentford,Christian Nørgaard,Midfielder,187cm
+Brentford,Mathias Jensen,Midfielder,180cm
+Brentford,Josh Dasilva,Midfielder,184cm
+Brentford,Yoane Wissa,Midfielder,176cm
+Brentford,Frank Onyeka,Midfielder,183cm
+Brentford,Bryan Mbeumo,Midfielder,173cm
+Brentford,Shandon Baptiste,Midfielder,175cm
+Brentford,Vitaly Janelt,Midfielder,184cm
+Brentford,Mikkel Damsgaard,Midfielder,180cm
+Brentford,Ryan Trevitt,Midfielder,170cm
+Brentford,Ryan Trevitt,Midfielder,170cm
+Brentford,Yehor Yarmolyuk,Midfielder,180cm
+Brentford,Kevin Schade,Midfielder,183cm
+Brentford,Saman Ghoddos,Forward,176cm
+Brentford,Ivan Toney,Forward,179cm
+Brentford,Nathan Young-Coombes,Forward,175cm
+Brentford,Keane Lewis-Potter,Forward,170cm
+Brentford,Alex Gilbert,Forward,183cm
+Brentford,Alex Gilbert,Forward,183cm
