@@ -1,10 +1,9 @@
 import requests
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup
 import pandas as pd
 import re
 from random import uniform
 from fake_headers import Headers
-
 
 
 def get_soup(url):
@@ -24,11 +23,11 @@ def get_soup(url):
     }
         headers = Headers(headers=True).generate()
         response = requests.get(url, headers=headers, proxies=proxies)
-        response.raise_for_status() 
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup
     except requests.RequestException:
-        return Fals
+        return False
 
 
 def get_links(url_null):
