@@ -4,6 +4,7 @@ import pandas as pd
 import re
 from random import uniform
 from fake_headers import Headers
+from tqdm import tqdm
 
 
 def get_soup(url):
