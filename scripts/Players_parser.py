@@ -4,6 +4,7 @@ import pandas as pd
 import re
 from random import uniform
 from fake_headers import Headers
+from tqdm import tqdm
 
 
 def get_soup(url):
@@ -24,6 +25,8 @@ def get_soup(url):
         headers = Headers(headers=True).generate()
         response = requests.get(url, headers=headers, proxies=proxies)
         response.raise_for_status()
+        with open('test.html', 'w') as f:
+            f.write(response.text)
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup
     except requests.RequestException:
@@ -43,14 +46,11 @@ def get_links(url_null):
             links_null: cоздается список с нужными окончаниями ссылок для последующего парсинга
     '''
     soup = get_soup(url_null)
-    links_null=[]
-    for t in range(100):
-        class_name='indexItem t'+str(t)
-        all_urls=soup.find_all('a', class_ =class_name)
-        first= [i['href'] for i in all_urls]  
-        first=[item.replace('overview', 'squad') for item in first]
-        links_null.append(first)
-    links_null = list(filter(None, links_null))
+    links_null = []
+    all_clubs = soup.find('ul', class_='block-list-5 block-list-3-m block-list-1-s block-list-1-xs block-list-padding dataContainer')
+    for club in all_clubs.find_all('li'):
+        url = club.find('a')['href'].replace('overview', 'squad')
+        links_null.append(url)
     return links_null
 
 
@@ -65,12 +65,12 @@ def write_down(data):
             data: данные, которые запишутся в файл
     '''
     df = pd.DataFrame(data)
-    with open('information.tsv','w') as f:
-        f.write('Игроки\n')  
-        df.to_csv(f, index=False) 
+    df.to_csv('information.tsv', sep='\t', index=False)
+    print(df)
 
-'''
-    Собираем данные с помощью парсинга. Функция не использована, так как оно не хочет работать быстро, а я не терпеливая.
+def parse_data():
+    '''
+    Собираем данные с помощью парсинга. 
 
     Args:
         all_links: формируется html, который содержит все ссылки на страницы игроков
@@ -79,42 +79,40 @@ def write_down(data):
         all_data: собирается словарь с данными об игроке
         all_teams: возвращает список из команды, игрока, его поизиции и роста
 '''
-links_parser=get_links('https://www.premierleague.com/clubs')
-all_teams=[]
-for u in links_parser:
-        url='https://www.premierleague.com'+ u[0] 
+    links_parser = get_links('https://www.premierleague.com/clubs')
+    all_teams = []
+    for u in tqdm(links_parser):
+        url = f'https://www.premierleague.com{u}'
         soup = get_soup(url)
-        team_name=soup.find('h1', class_='team js-team')
-        all_links=soup.find_all('a', class_ = 'playerOverviewCard active')
-        players= [i['href'].strip() for i in all_links]
+        team_name = soup.find('h1', class_='team js-team')
+        all_links = soup.find_all('a', class_='playerOverviewCard active')
+        players = [i['href'].strip() for i in all_links]
         for l in players:
-            link='https://www.premierleague.com'+l
-            try:
-                soup_player = get_soup(link)
-                player_name=soup_player.find('div', class_='name t-colour')
-                all_height=soup_player.find_all('div', class_='info')
-                regex = re.compile('cm')
-                try:
-                    if (regex.search(all_height[4].string) != None):
-                        all_data = {'Команда': team_name.text, 'Игрок': player_name.text, 'Позиция': all_height[1].text,'Рост': all_height[4].text}
-                except: 
-                    pass
-                try: 
-                    if (regex.search(all_height[3].string) != None):
-                        all_data = {'Команда': team_name.text, 'Игрок': player_name.text, 'Позиция': all_height[0].text,'Рост': all_height[3].text}
-                except: 
-                    pass
-                if not all_data:
-                    all_data = {'Команда': team_name.text, 'Игрок': player_name.text, 'Позиция': all_height[1].text,'Рост': 'None'}
-                all_teams.append(all_data)
-            except requests.RequestException:
-                pass
+            link = f'https://www.premierleague.com{l}'
+            soup_player = get_soup(link)
+            player_name = soup_player.find('div', class_='name t-colour')
+            all_height = soup_player.find_all('div', class_='info')
+            position = list(filter(lambda x: x.text in ['Goalkeeper', 'Defender', 'Midfielder', 'Forward'], all_height))[0]
+            height = list(filter(lambda x: 'cm' in x.text, all_height))
+            if not height:
+                height = 'None'
+            else:
+                height = height[0].text
+
+            all_data = {
+                'Команда': team_name.text,
+                'Игрок': player_name.text,
+                'Позиция': position.text,
+                'Рост': height,
+                }
+            all_teams.append(all_data)
+    return all_teams
 
 
-write_down(all_teams)
-df = pd.DataFrame(all_teams)
-print(df)
-
+if __name__ == '__main__':
+    all_teams = parse_data()
+    write_down(all_teams)
+   
 
 
 
